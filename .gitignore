@@ -39,3 +39,11 @@
 
 # debug information files
 *.dwo
+
+# AWS Credentials
+.aws/
+credentials
+*.pem
+
+# Local environment variables
+.env
